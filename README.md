@@ -5,6 +5,9 @@ StoneAge 2.5 Server Source Code｜石器时代 2.5 服务端代码
 
 
 ### 说明
+怀旧
+
+
 资源为石器时代 `2.5` 服务端代码.
 
 数据库采用 `mysql` , 建表结构可以根据 `sasql.c` 自己琢磨, 或者联系 `Email` 咨询.
